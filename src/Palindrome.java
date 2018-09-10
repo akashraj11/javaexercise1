@@ -2,15 +2,15 @@ import java.util.Scanner;
 
 class Palindrome{
     public static void main(String args[]){
-        int r,sum=0,temp,n;
+        int r,sum=0;int temp,inputnumber;
         int even =0;
         Scanner s = new Scanner(System.in);
-        n = s.nextInt();
-        temp=n;
-        while(n>0){
-            r=n%10;  //getting remainder
+        inputnumber = s.nextInt();
+        temp=inputnumber;
+        while(inputnumber>0){
+            r=inputnumber%10;  //getting remainder
             sum=(sum*10)+r;
-            n=n/10;
+            inputnumber=inputnumber/10;
             if(r%2==0)
             {
                 even=even+r;//adding even integer
