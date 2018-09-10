@@ -3,19 +3,19 @@ import java.util.Scanner;
 public class RepeatN {
     public static void main(String[] args) {
         String str = "";
-        int n;
+        int inputnumber;
         Scanner sc = new Scanner(System.in);
         str = sc.nextLine();
-        n = sc.nextInt();
+        inputnumber = sc.nextInt();
         int length = str.length();
-        for (int i = 0; i < length - n; i++) {
+        for (int i = 0; i < length - inputnumber; i++) {
             System.out.print(str.charAt(i));
         }
         int j = 0;
         // print last n character n times
-        while (j < n)
+        while (j < inputnumber)
         {
-            for(int k=length-n;k<length;k++)
+            for(int k=length-inputnumber;k<length;k++)
             {
                 System.out.print(str.charAt(k));
             }

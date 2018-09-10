@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Pattern {
     public static void main(String[] args) {
-        int n;
+        int inputnumber;
         Scanner scan=new Scanner(System.in);
-        n=scan.nextInt();
-        // printing pattern till n
-        for (int i=1;i<=n;i++)
+        inputnumber=scan.nextInt();
+        // printing pattern till inputnumber
+        for (int i=1;i<=inputnumber;i++)
         {
             for (int j=1;j<=i;j++)
             {
