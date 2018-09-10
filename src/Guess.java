@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class guess {
+public class Guess {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         int count = 0;

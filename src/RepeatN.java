@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class repeatN {
+public class RepeatN {
     public static void main(String[] args) {
         String str = "";
         int n;

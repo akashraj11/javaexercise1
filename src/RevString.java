@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class revString {
+public class RevString {
     public static void main(String[]args)
     {
         String str="";

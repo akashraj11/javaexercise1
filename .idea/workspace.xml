@@ -4,17 +4,13 @@
     <list default="true" id="57b95ce2-dcf0-4d4b-91b9-2e1ace2ab575" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/quickstart/sumTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/characterChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/consonantVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repeatN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tomJerry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/junit/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit/pom.xml" afterDir="false" />
@@ -44,6 +40,25 @@
       <change beforePath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/quickstart/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/quickstart/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/quickstart/AppTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/quickstart/AppTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/testsuite/EmployeeEmailTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/src/main/test/com/stackroute/unittest/testsuite/EmployeeEmailTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/characterChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/consonantVowel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/guess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/repeatN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/revString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastackroute/tomJerry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consonantVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consonantVowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repeatN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repeatN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/revString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tomJerry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tomJerry.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,12 +87,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1045" />
+          <entry key="java" value="1056" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1045" />
+          <entry key="JAVA" value="1056" />
         </counts>
       </usages-collector>
     </session>
@@ -88,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/src/palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -96,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tomJerry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -105,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/consonantVowel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="15">
+              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -114,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -123,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -132,17 +147,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/characterChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="64" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -150,17 +165,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/guess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="15">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/revString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -168,8 +183,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/repeatN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -184,7 +199,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,24 +216,24 @@
         <option value="$PROJECT_DIR$/src/10th.java" />
         <option value="$PROJECT_DIR$/src/sort.java" />
         <option value="$PROJECT_DIR$/src/rep.java" />
-        <option value="$PROJECT_DIR$/src/tomJerry.java" />
+        <option value="$PROJECT_DIR$/src/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/characterChecker.java" />
+        <option value="$PROJECT_DIR$/src/consonantVowel.java" />
+        <option value="$PROJECT_DIR$/src/guess.java" />
+        <option value="$PROJECT_DIR$/src/palindrome.java" />
+        <option value="$PROJECT_DIR$/src/pattern.java" />
         <option value="$PROJECT_DIR$/src/repeatN.java" />
         <option value="$PROJECT_DIR$/src/revString.java" />
-        <option value="$PROJECT_DIR$/src/palindrome.java" />
         <option value="$PROJECT_DIR$/src/sum.java" />
-        <option value="$PROJECT_DIR$/src/pattern.java" />
-        <option value="$PROJECT_DIR$/src/guess.java" />
-        <option value="$PROJECT_DIR$/src/consonantVowel.java" />
-        <option value="$PROJECT_DIR$/src/characterChecker.java" />
-        <option value="$PROJECT_DIR$/src/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/tomJerry.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="92" />
-    <option name="y" value="-4" />
+    <option name="x" value="561" />
+    <option name="y" value="42" />
     <option name="width" value="1281" />
-    <option name="height" value="760" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,12 +251,19 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastackroute" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastackroute" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="repeatN.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="revString.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -253,7 +275,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536569143482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536573831430" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -299,14 +321,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24541833" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24541833" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -371,73 +392,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/revString.java">
+    <entry file="file://$PROJECT_DIR$/src/characterChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tomJerry.java">
+    <entry file="file://$PROJECT_DIR$/src/consonantVowel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/guess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repeatN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/consonantVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/characterChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tomJerry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repeatN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/revString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class consonantVowel {
+    public class  ConsonantVowel {
         public static void main(String[ ] arg) {
             String ch;
             Scanner scan = new Scanner(System.in);

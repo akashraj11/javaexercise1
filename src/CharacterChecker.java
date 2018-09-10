@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class characterChecker {
+public class CharacterChecker {
     public static void main(String[] args) {
         char c;
         Scanner scan = new Scanner(System.in);

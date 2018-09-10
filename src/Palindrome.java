@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class palindrome{
+class Palindrome{
     public static void main(String args[]){
         int r,sum=0,temp,n;
         int even =0;
